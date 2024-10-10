@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+	<url>
+		<loc>https://www.kamipay.io/index.htm</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://www.kamipay.io/cobrar-reales-en-dolares-con-pix.htm</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://www.kamipay.io/prensa.htm</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://www.kamipay.io/sistema-de-cobro-para-negocios.htm</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1.00</priority>
+	</url>
+	<url>
+		<loc>https://www.kamipay.io/integracion-apis.htm</loc>
+		<changefreq>monthly</changefreq>
+		<priority>1.00</priority>
+	</url>
+</urlset>
