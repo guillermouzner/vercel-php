@@ -6,5 +6,10 @@
   },
   "routes": [
     { "src": "/(.*)", "dest": "/api/index.php" }
-  ]
+  ],
+  "build": {
+    "env": {
+      "PHP_VERSION": "8.1"
+    }
+  }
 }
